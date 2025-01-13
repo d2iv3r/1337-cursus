@@ -22,3 +22,12 @@
 [submodule "cub3d"]
 	path = cub3d
 	url = git@github.com:d2iv3r/cub3d.git
+[submodule "CPP_Modules"]
+	path = CPP_Modules
+	url = git@github.com:d2iv3r/CPP_Modules.git
+[submodule "ft_irc"]
+	path = ft_irc
+	url = git@github.com:d2iv3r/ft_irc.git
+[submodule "Inception"]
+	path = Inception
+	url = git@github.com:d2iv3r/Inception.git
