@@ -1,0 +1,24 @@
+[submodule "Libft"]
+	path = Libft
+	url = git@github.com:d2iv3r/Libft.git
+[submodule "ft_printf"]
+	path = ft_printf
+	url = git@github.com:d2iv3r/ft_printf.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = git@github.com:d2iv3r/get_next_line.git
+[submodule "push_swap"]
+	path = push_swap
+	url = git@github.com:d2iv3r/push_swap.git
+[submodule "minitalk"]
+	path = minitalk
+	url = git@github.com:d2iv3r/minitalk.git
+[submodule "Philosophers"]
+	path = Philosophers
+	url = git@github.com:d2iv3r/Philosophers.git
+[submodule "minishell"]
+	path = minishell
+	url = git@github.com:d2iv3r/minishell.git
+[submodule "cub3d"]
+	path = cub3d
+	url = git@github.com:d2iv3r/cub3d.git
