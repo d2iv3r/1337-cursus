@@ -34,3 +34,6 @@
 [submodule "so_long"]
 	path = so_long
 	url = git@github.com:d2iv3r/so_long.git
+[submodule "ft_transcendence_42"]
+	path = ft_transcendence_42
+	url = git@github.com:0x00-A/ft_transcendence_42.git
