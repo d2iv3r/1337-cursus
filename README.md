@@ -93,7 +93,7 @@ Projects are graded through:
 
 ## Skills Developed
 
-**Hard Skills**
+## **Hard Skills**
 1. **Programming Fundamentals:**
    - Mastery of languages like C, C++, Python, JavaScript, etc.
    - Understanding data structures and algorithms.
