@@ -2,6 +2,8 @@
 
 Welcome to the 1337 Cursus Projects README! This document serves as a comprehensive overview of all projects undertaken during the 1337 Cursus program. Each project is designed to develop your programming, problem-solving, and teamwork skills, gradually building expertise in computer science and software development.
 
+<img src="1337.jfif" alt="1337" >
+
 ---
 
 ## Table of Contents
